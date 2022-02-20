@@ -1,0 +1,493 @@
+,name,selling_price,km_driven,fuel,transmission
+0,2014 Maruti Swift Dzire,"3,54,799","76,013 km",Diesel,Manual
+1,2015 Tata Nano,"1,87,999","39,703 km",Petrol,Manual
+2,2012 Maruti Swift,"2,60,099","1,20,326 km",Diesel,Manual
+3,2012 Maruti Swift,"2,82,099","68,206 km",Diesel,Manual
+4,2015 Tata Nano,"1,85,999","43,402 km",Petrol,Manual
+5,2014 Hyundai Xcent,"3,88,699","42,384 km",Petrol,Manual
+6,2013 Maruti Swift Dzire,"3,75,099","66,341 km",Diesel,Manual
+7,2013 Maruti Swift Dzire,"3,75,099","66,341 km",Diesel,Manual
+8,2015 Maruti S Cross,"5,39,999","94,544 km",Diesel,Manual
+9,2012 Maruti Swift Dzire,"3,05,899","1,18,117 km",Diesel,Manual
+10,2014 Maruti Swift,"4,07,199","54,884 km",Diesel,Manual
+11,2015 Maruti Swift Dzire,"5,09,299","13,258 km",Diesel,Manual
+12,2013 Maruti Swift,"3,40,699","78,932 km",Diesel,Manual
+13,2014 Maruti Ritz,"3,37,699","42,295 km",Diesel,Manual
+14,2015 Maruti Swift,"4,23,099","46,478 km",Petrol,Manual
+15,2014 Honda Amaze,"3,49,599","70,640 km",Diesel,Manual
+16,2018 Maruti Vitara Brezza,"6,81,899","60,395 km",Diesel,Manual
+17,2018 Maruti Wagon R 1.0,"4,49,699","30,536 km",Petrol,Manual
+18,2018 Maruti Vitara Brezza,"6,81,899","60,395 km",Diesel,Manual
+19,2018 Maruti Celerio,"5,01,199","27,816 km",Petrol,Manual
+20,2014 Maruti Swift Dzire,"3,54,799","76,013 km",Diesel,Manual
+21,2015 Tata Nano,"1,87,999","39,703 km",Petrol,Manual
+22,2012 Maruti Swift,"2,92,299","38,061 km",Diesel,Manual
+23,2014 Maruti Swift,"3,70,699","82,367 km",Diesel,Manual
+24,2008 Maruti Alto,"1,31,699","43,091 km",Petrol,Manual
+25,2014 Hyundai Xcent,"3,88,699","42,384 km",Petrol,Manual
+26,2013 Maruti Swift Dzire,"3,03,099","49,944 km",Diesel,Manual
+27,2014 Maruti Swift Dzire,"3,54,799","76,013 km",Diesel,Manual
+28,2013 Maruti Ertiga,"4,59,999","1,12,745 km",Diesel,Manual
+29,2012 Maruti Swift Dzire,"3,05,899","1,18,117 km",Diesel,Manual
+30,2014 Maruti Swift,"4,07,199","54,884 km",Diesel,Manual
+31,2015 Maruti Swift Dzire,"5,09,299","13,258 km",Diesel,Manual
+32,2013 Maruti Swift,"3,50,999","83,143 km",Diesel,Manual
+33,2014 Maruti Ritz,"3,37,699","42,295 km",Diesel,Manual
+34,2015 Maruti Swift,"4,23,099","46,478 km",Petrol,Manual
+35,2014 Honda Amaze,"3,49,599","70,640 km",Diesel,Manual
+36,2018 Maruti Vitara Brezza,"6,81,899","60,395 km",Diesel,Manual
+37,2018 Maruti Wagon R 1.0,"4,49,699","30,536 km",Petrol,Manual
+38,2018 Maruti Vitara Brezza,"6,81,899","60,395 km",Diesel,Manual
+39,2018 Maruti Celerio,"5,01,199","27,816 km",Petrol,Manual
+40,2014 Maruti Swift Dzire,"3,54,799","76,013 km",Diesel,Manual
+41,2014 Tata Nano,"1,81,499","31,769 km",Petrol,Manual
+42,2012 Maruti Swift,"2,92,299","38,061 km",Diesel,Manual
+43,2013 Maruti Swift,"3,40,699","78,932 km",Diesel,Manual
+44,2015 Tata Nano,"1,85,999","43,402 km",Petrol,Manual
+45,2013 Maruti Swift Dzire,"3,74,499","76,795 km",Diesel,Manual
+46,2013 Maruti Swift Dzire,"3,75,099","66,341 km",Diesel,Manual
+47,2013 Maruti Swift Dzire,"3,75,099","66,341 km",Diesel,Manual
+48,2015 Maruti S Cross,"5,39,999","94,544 km",Diesel,Manual
+49,2012 Maruti Swift Dzire,"3,05,899","1,18,117 km",Diesel,Manual
+50,2014 Maruti Swift,"4,07,199","54,884 km",Diesel,Manual
+51,2016 Maruti Swift Dzire,"5,14,599","58,123 km",Diesel,Manual
+52,2013 Maruti Swift,"3,40,699","78,932 km",Diesel,Manual
+53,2014 Maruti Ritz,"3,37,699","42,295 km",Diesel,Manual
+54,2015 Maruti Swift,"4,23,099","46,478 km",Petrol,Manual
+55,2014 Honda Amaze,"3,49,599","70,640 km",Diesel,Manual
+56,2018 Maruti Vitara Brezza,"6,81,899","60,395 km",Diesel,Manual
+57,2018 Maruti Wagon R 1.0,"4,49,699","30,536 km",Petrol,Manual
+58,2013 Renault Duster,"4,44,999","96,788 km",Diesel,Manual
+59,2018 Maruti Celerio,"5,01,199","27,816 km",Petrol,Manual
+60,2012 Maruti Swift Dzire,"2,74,099","1,26,803 km",Diesel,Manual
+61,2014 Tata Nano,"1,81,499","31,769 km",Petrol,Manual
+62,2012 Maruti Swift,"2,60,099","1,20,326 km",Diesel,Manual
+63,2014 Maruti Swift,"3,70,699","82,367 km",Diesel,Manual
+64,2008 Maruti Alto,"1,31,699","43,091 km",Petrol,Manual
+65,2013 Maruti Swift Dzire,"3,74,499","76,795 km",Diesel,Manual
+66,2013 Maruti Swift Dzire,"3,75,099","66,341 km",Diesel,Manual
+67,2013 Maruti Swift Dzire,"3,77,099","74,644 km",Diesel,Manual
+68,2015 Maruti S Cross,"5,39,999","94,544 km",Diesel,Manual
+69,2012 Maruti Swift Dzire,"3,05,899","1,18,117 km",Diesel,Manual
+70,2014 Maruti Swift,"4,07,199","54,884 km",Diesel,Manual
+71,2015 Maruti Swift Dzire,"5,09,299","13,258 km",Diesel,Manual
+72,2013 Maruti Swift,"3,50,999","83,143 km",Diesel,Manual
+73,2014 Maruti Ritz,"3,37,699","42,295 km",Diesel,Manual
+74,2015 Maruti Swift,"4,23,099","46,478 km",Petrol,Manual
+75,2014 Honda Amaze,"3,49,599","70,640 km",Diesel,Manual
+76,2018 Maruti Vitara Brezza,"6,81,899","60,395 km",Diesel,Manual
+77,2018 Maruti Wagon R 1.0,"4,24,499","13,375 km",Petrol,Manual
+78,2018 Maruti Vitara Brezza,"6,81,899","60,395 km",Diesel,Manual
+79,2018 Maruti Celerio,"5,01,199","27,816 km",Petrol,Manual
+80,2012 Maruti Swift Dzire,"2,74,099","1,26,803 km",Diesel,Manual
+81,2014 Tata Nano,"1,81,499","31,769 km",Petrol,Manual
+82,2012 Maruti Swift,"2,60,099","1,20,326 km",Diesel,Manual
+83,2013 Maruti Swift,"3,40,699","78,932 km",Diesel,Manual
+84,2008 Maruti Alto,"1,31,699","43,091 km",Petrol,Manual
+85,2014 Hyundai Xcent,"3,88,699","42,384 km",Petrol,Manual
+86,2013 Maruti Swift Dzire,"3,75,099","66,341 km",Diesel,Manual
+87,2013 Maruti Swift Dzire,"3,77,099","74,644 km",Diesel,Manual
+88,2013 Maruti Ertiga,"4,59,999","1,12,745 km",Diesel,Manual
+89,2012 Maruti Swift Dzire,"3,05,899","1,18,117 km",Diesel,Manual
+90,2014 Maruti Swift,"4,07,199","54,884 km",Diesel,Manual
+91,2015 Maruti Swift Dzire,"5,09,299","13,258 km",Diesel,Manual
+92,2013 Maruti Swift,"3,50,999","83,143 km",Diesel,Manual
+93,2014 Maruti Ritz,"3,37,699","42,295 km",Diesel,Manual
+94,2015 Maruti Swift,"4,23,099","46,478 km",Petrol,Manual
+95,2014 Honda Amaze,"3,49,599","70,640 km",Diesel,Manual
+96,2018 Maruti Vitara Brezza,"6,81,899","60,395 km",Diesel,Manual
+97,2018 Maruti Wagon R 1.0,"4,49,699","30,536 km",Petrol,Manual
+98,2018 Maruti Vitara Brezza,"6,81,899","60,395 km",Diesel,Manual
+99,2018 Maruti Celerio,"5,01,199","27,816 km",Petrol,Manual
+100,2012 Maruti Swift Dzire,"2,74,099","1,26,803 km",Diesel,Manual
+101,2015 Tata Nano,"1,85,999","43,402 km",Petrol,Manual
+102,2012 Maruti Swift,"2,92,299","38,061 km",Diesel,Manual
+103,2014 Maruti Swift,"3,70,699","82,367 km",Diesel,Manual
+104,2008 Maruti Alto,"1,31,699","43,091 km",Petrol,Manual
+105,2014 Hyundai Xcent,"3,88,699","42,384 km",Petrol,Manual
+106,2013 Maruti Swift Dzire,"3,03,099","49,944 km",Diesel,Manual
+107,2014 Maruti Swift Dzire,"3,54,799","76,013 km",Diesel,Manual
+108,2013 Maruti Ertiga,"4,59,999","1,12,745 km",Diesel,Manual
+109,2012 Maruti Swift Dzire,"3,05,899","1,18,117 km",Diesel,Manual
+110,2014 Maruti Swift,"4,24,199","38,070 km",Diesel,Manual
+111,2016 Maruti Swift Dzire,"5,14,599","58,123 km",Diesel,Manual
+112,2013 Maruti Swift,"3,50,999","83,143 km",Diesel,Manual
+113,2014 Maruti Ritz,"3,37,699","42,295 km",Diesel,Manual
+114,2015 Maruti Swift,"4,23,099","46,478 km",Petrol,Manual
+115,2014 Honda Amaze,"3,49,599","70,640 km",Diesel,Manual
+116,2018 Maruti Vitara Brezza,"6,81,899","60,395 km",Diesel,Manual
+117,2018 Maruti Wagon R 1.0,"4,49,699","30,536 km",Petrol,Manual
+118,2013 Renault Duster,"4,44,999","96,788 km",Diesel,Manual
+119,2018 Maruti Celerio,"5,01,199","27,816 km",Petrol,Manual
+120,2014 Maruti Swift Dzire,"3,54,799","76,013 km",Diesel,Manual
+121,2015 Tata Nano,"1,85,999","43,402 km",Petrol,Manual
+122,2012 Maruti Swift,"2,92,299","38,061 km",Diesel,Manual
+123,2012 Maruti Swift,"2,82,099","68,206 km",Diesel,Manual
+124,2008 Maruti Alto,"1,31,699","43,091 km",Petrol,Manual
+125,2014 Hyundai Xcent,"3,88,699","42,384 km",Petrol,Manual
+126,2013 Maruti Swift Dzire,"3,03,099","49,944 km",Diesel,Manual
+127,2013 Maruti Swift Dzire,"3,75,099","66,341 km",Diesel,Manual
+128,2015 Maruti S Cross,"5,39,999","94,544 km",Diesel,Manual
+129,2012 Maruti Swift Dzire,"3,05,899","1,18,117 km",Diesel,Manual
+130,2014 Maruti Swift,"4,07,199","54,884 km",Diesel,Manual
+131,2016 Maruti Swift Dzire,"5,14,599","58,123 km",Diesel,Manual
+132,2013 Maruti Swift,"3,40,699","78,932 km",Diesel,Manual
+133,2014 Maruti Ritz,"3,37,699","42,295 km",Diesel,Manual
+134,2015 Maruti Swift,"4,23,099","46,478 km",Petrol,Manual
+135,2014 Honda Amaze,"3,49,599","70,640 km",Diesel,Manual
+136,2018 Maruti Vitara Brezza,"6,81,899","60,395 km",Diesel,Manual
+137,2018 Maruti Wagon R 1.0,"4,49,699","30,536 km",Petrol,Manual
+138,2013 Renault Duster,"4,44,999","96,788 km",Diesel,Manual
+139,2018 Maruti Celerio,"5,01,199","27,816 km",Petrol,Manual
+140,2012 Maruti Swift Dzire,"2,74,099","1,26,803 km",Diesel,Manual
+141,2014 Tata Nano,"1,81,499","31,769 km",Petrol,Manual
+142,2012 Maruti Swift,"2,60,099","1,20,326 km",Diesel,Manual
+143,2014 Maruti Swift,"3,70,699","82,367 km",Diesel,Manual
+144,2008 Maruti Alto,"1,31,699","43,091 km",Petrol,Manual
+145,2014 Hyundai Xcent,"3,88,699","42,384 km",Petrol,Manual
+146,2013 Maruti Swift Dzire,"3,75,099","66,341 km",Diesel,Manual
+147,2014 Maruti Swift Dzire,"3,54,799","76,013 km",Diesel,Manual
+148,2013 Maruti Ertiga,"4,59,999","1,12,745 km",Diesel,Manual
+149,2012 Maruti Swift Dzire,"3,05,899","1,18,117 km",Diesel,Manual
+150,2014 Maruti Swift,"4,07,199","54,884 km",Diesel,Manual
+151,2015 Maruti Swift Dzire,"5,09,299","13,258 km",Diesel,Manual
+152,2013 Maruti Swift,"3,50,999","83,143 km",Diesel,Manual
+153,2014 Maruti Ritz,"3,37,699","42,295 km",Diesel,Manual
+154,2015 Maruti Swift,"4,23,099","46,478 km",Petrol,Manual
+155,2014 Honda Amaze,"3,49,599","70,640 km",Diesel,Manual
+156,2018 Maruti Vitara Brezza,"6,81,899","60,395 km",Diesel,Manual
+157,2018 Maruti Wagon R 1.0,"4,24,499","13,375 km",Petrol,Manual
+158,2013 Renault Duster,"4,44,999","96,788 km",Diesel,Manual
+159,2018 Maruti Celerio,"5,01,199","27,816 km",Petrol,Manual
+160,2012 Maruti Swift Dzire,"2,74,099","1,26,803 km",Diesel,Manual
+161,2015 Tata Nano,"1,85,999","43,402 km",Petrol,Manual
+162,2012 Maruti Swift,"2,92,299","38,061 km",Diesel,Manual
+163,2014 Maruti Swift,"3,70,699","82,367 km",Diesel,Manual
+164,2015 Tata Nano,"1,85,999","43,402 km",Petrol,Manual
+165,2014 Hyundai Xcent,"3,88,699","42,384 km",Petrol,Manual
+166,2013 Maruti Swift Dzire,"3,75,099","66,341 km",Diesel,Manual
+167,2014 Maruti Swift Dzire,"3,54,799","76,013 km",Diesel,Manual
+168,2013 Maruti Ertiga,"4,59,999","1,12,745 km",Diesel,Manual
+169,2012 Maruti Swift Dzire,"3,05,899","1,18,117 km",Diesel,Manual
+170,2014 Maruti Swift,"4,24,199","38,070 km",Diesel,Manual
+171,2016 Maruti Swift Dzire,"5,14,599","58,123 km",Diesel,Manual
+172,2013 Maruti Swift,"3,50,999","83,143 km",Diesel,Manual
+173,2014 Maruti Ritz,"3,37,699","42,295 km",Diesel,Manual
+174,2015 Maruti Swift,"4,23,099","46,478 km",Petrol,Manual
+175,2014 Honda Amaze,"3,49,599","70,640 km",Diesel,Manual
+176,2018 Maruti Vitara Brezza,"6,81,899","60,395 km",Diesel,Manual
+177,2018 Maruti Wagon R 1.0,"4,24,499","13,375 km",Petrol,Manual
+178,2013 Renault Duster,"4,44,999","96,788 km",Diesel,Manual
+179,2018 Maruti Celerio,"5,01,199","27,816 km",Petrol,Manual
+180,2014 Maruti Swift Dzire,"3,54,799","76,013 km",Diesel,Manual
+181,2015 Tata Nano,"1,87,999","39,703 km",Petrol,Manual
+182,2012 Maruti Swift,"2,92,299","38,061 km",Diesel,Manual
+183,2014 Maruti Swift,"3,70,699","82,367 km",Diesel,Manual
+184,2015 Tata Nano,"1,85,999","43,402 km",Petrol,Manual
+185,2014 Hyundai Xcent,"3,88,699","42,384 km",Petrol,Manual
+186,2013 Maruti Swift Dzire,"3,03,099","49,944 km",Diesel,Manual
+187,2013 Maruti Swift Dzire,"3,77,099","74,644 km",Diesel,Manual
+188,2015 Maruti S Cross,"5,39,999","94,544 km",Diesel,Manual
+189,2012 Maruti Swift Dzire,"3,05,899","1,18,117 km",Diesel,Manual
+190,2014 Maruti Swift,"4,07,199","54,884 km",Diesel,Manual
+191,2015 Maruti Swift Dzire,"5,09,299","13,258 km",Diesel,Manual
+192,2013 Maruti Swift,"3,40,699","78,932 km",Diesel,Manual
+193,2014 Maruti Ritz,"3,37,699","42,295 km",Diesel,Manual
+194,2015 Maruti Swift,"4,23,099","46,478 km",Petrol,Manual
+195,2014 Honda Amaze,"3,49,599","70,640 km",Diesel,Manual
+196,2018 Maruti Vitara Brezza,"6,81,899","60,395 km",Diesel,Manual
+197,2018 Maruti Wagon R 1.0,"4,49,699","30,536 km",Petrol,Manual
+198,2018 Maruti Vitara Brezza,"6,81,899","60,395 km",Diesel,Manual
+199,2018 Maruti Celerio,"5,01,199","27,816 km",Petrol,Manual
+200,2014 Maruti Swift Dzire,"3,54,799","76,013 km",Diesel,Manual
+201,2014 Tata Nano,"1,81,499","31,769 km",Petrol,Manual
+202,2012 Maruti Swift,"2,60,099","1,20,326 km",Diesel,Manual
+203,2012 Maruti Swift,"2,82,099","68,206 km",Diesel,Manual
+204,2008 Maruti Alto,"1,31,699","43,091 km",Petrol,Manual
+205,2013 Maruti Swift Dzire,"3,74,499","76,795 km",Diesel,Manual
+206,2013 Maruti Swift Dzire,"3,03,099","49,944 km",Diesel,Manual
+207,2014 Maruti Swift Dzire,"3,54,799","76,013 km",Diesel,Manual
+208,2013 Maruti Ertiga,"4,59,999","1,12,745 km",Diesel,Manual
+209,2012 Maruti Swift Dzire,"3,05,899","1,18,117 km",Diesel,Manual
+210,2014 Maruti Swift,"4,07,199","54,884 km",Diesel,Manual
+211,2015 Maruti Swift Dzire,"5,09,299","13,258 km",Diesel,Manual
+212,2013 Maruti Swift,"3,40,699","78,932 km",Diesel,Manual
+213,2014 Maruti Ritz,"3,37,699","42,295 km",Diesel,Manual
+214,2015 Maruti Swift,"4,23,099","46,478 km",Petrol,Manual
+215,2014 Honda Amaze,"3,49,599","70,640 km",Diesel,Manual
+216,2018 Maruti Vitara Brezza,"6,81,899","60,395 km",Diesel,Manual
+217,2018 Maruti Wagon R 1.0,"4,24,499","13,375 km",Petrol,Manual
+218,2018 Maruti Vitara Brezza,"6,81,899","60,395 km",Diesel,Manual
+219,2018 Maruti Celerio,"5,01,199","27,816 km",Petrol,Manual
+220,2012 Maruti Swift Dzire,"2,74,099","1,26,803 km",Diesel,Manual
+221,2015 Tata Nano,"1,85,999","43,402 km",Petrol,Manual
+222,2012 Maruti Swift,"2,92,299","38,061 km",Diesel,Manual
+223,2014 Maruti Swift,"3,70,699","82,367 km",Diesel,Manual
+224,2015 Tata Nano,"1,85,999","43,402 km",Petrol,Manual
+225,2014 Hyundai Xcent,"3,88,699","42,384 km",Petrol,Manual
+226,2013 Maruti Swift Dzire,"3,03,099","49,944 km",Diesel,Manual
+227,2014 Maruti Swift Dzire,"3,54,799","76,013 km",Diesel,Manual
+228,2013 Maruti Ertiga,"4,59,999","1,12,745 km",Diesel,Manual
+229,2012 Maruti Swift Dzire,"3,05,899","1,18,117 km",Diesel,Manual
+230,2014 Maruti Swift,"4,24,199","38,070 km",Diesel,Manual
+231,2015 Maruti Swift Dzire,"5,09,299","13,258 km",Diesel,Manual
+232,2013 Maruti Swift,"3,50,999","83,143 km",Diesel,Manual
+233,2014 Maruti Ritz,"3,37,699","42,295 km",Diesel,Manual
+234,2015 Maruti Swift,"4,23,099","46,478 km",Petrol,Manual
+235,2014 Honda Amaze,"3,49,599","70,640 km",Diesel,Manual
+236,2018 Maruti Vitara Brezza,"6,81,899","60,395 km",Diesel,Manual
+237,2018 Maruti Wagon R 1.0,"4,49,699","30,536 km",Petrol,Manual
+238,2013 Renault Duster,"4,44,999","96,788 km",Diesel,Manual
+239,2018 Maruti Celerio,"5,01,199","27,816 km",Petrol,Manual
+240,2014 Maruti Swift Dzire,"3,54,799","76,013 km",Diesel,Manual
+241,2015 Tata Nano,"1,87,999","39,703 km",Petrol,Manual
+242,2012 Maruti Swift,"2,60,099","1,20,326 km",Diesel,Manual
+243,2013 Maruti Swift,"3,40,699","78,932 km",Diesel,Manual
+244,2008 Maruti Alto,"1,31,699","43,091 km",Petrol,Manual
+245,2013 Maruti Swift Dzire,"3,74,499","76,795 km",Diesel,Manual
+246,2013 Maruti Swift Dzire,"3,75,099","66,341 km",Diesel,Manual
+247,2014 Maruti Swift Dzire,"3,54,799","76,013 km",Diesel,Manual
+248,2015 Maruti S Cross,"5,39,999","94,544 km",Diesel,Manual
+249,2012 Maruti Swift Dzire,"3,05,899","1,18,117 km",Diesel,Manual
+250,2014 Maruti Swift,"4,07,199","54,884 km",Diesel,Manual
+251,2016 Maruti Swift Dzire,"5,14,599","58,123 km",Diesel,Manual
+252,2013 Maruti Swift,"3,40,699","78,932 km",Diesel,Manual
+253,2014 Maruti Ritz,"3,37,699","42,295 km",Diesel,Manual
+254,2015 Maruti Swift,"4,23,099","46,478 km",Petrol,Manual
+255,2014 Honda Amaze,"3,49,599","70,640 km",Diesel,Manual
+256,2018 Maruti Vitara Brezza,"6,81,899","60,395 km",Diesel,Manual
+257,2018 Maruti Wagon R 1.0,"4,49,699","30,536 km",Petrol,Manual
+258,2018 Maruti Vitara Brezza,"6,81,899","60,395 km",Diesel,Manual
+259,2018 Maruti Celerio,"5,01,199","27,816 km",Petrol,Manual
+260,2012 Maruti Swift Dzire,"2,74,099","1,26,803 km",Diesel,Manual
+261,2014 Tata Nano,"1,81,499","31,769 km",Petrol,Manual
+262,2012 Maruti Swift,"2,92,299","38,061 km",Diesel,Manual
+263,2014 Maruti Swift,"3,70,699","82,367 km",Diesel,Manual
+264,2015 Tata Nano,"1,85,999","43,402 km",Petrol,Manual
+265,2013 Maruti Swift Dzire,"3,74,499","76,795 km",Diesel,Manual
+266,2013 Maruti Swift Dzire,"3,75,099","66,341 km",Diesel,Manual
+267,2014 Maruti Swift Dzire,"3,54,799","76,013 km",Diesel,Manual
+268,2013 Maruti Ertiga,"4,59,999","1,12,745 km",Diesel,Manual
+269,2012 Maruti Swift Dzire,"3,05,899","1,18,117 km",Diesel,Manual
+270,2014 Maruti Swift,"4,07,199","54,884 km",Diesel,Manual
+271,2016 Maruti Swift Dzire,"5,14,599","58,123 km",Diesel,Manual
+272,2013 Maruti Swift,"3,50,999","83,143 km",Diesel,Manual
+273,2014 Maruti Ritz,"3,37,699","42,295 km",Diesel,Manual
+274,2015 Maruti Swift,"4,23,099","46,478 km",Petrol,Manual
+275,2014 Honda Amaze,"3,49,599","70,640 km",Diesel,Manual
+276,2018 Maruti Vitara Brezza,"6,81,899","60,395 km",Diesel,Manual
+277,2018 Maruti Wagon R 1.0,"4,49,699","30,536 km",Petrol,Manual
+278,2013 Renault Duster,"4,44,999","96,788 km",Diesel,Manual
+279,2018 Maruti Celerio,"5,01,199","27,816 km",Petrol,Manual
+280,2012 Maruti Swift Dzire,"2,74,099","1,26,803 km",Diesel,Manual
+281,2014 Tata Nano,"1,81,499","31,769 km",Petrol,Manual
+282,2012 Maruti Swift,"2,60,099","1,20,326 km",Diesel,Manual
+283,2012 Maruti Swift,"2,82,099","68,206 km",Diesel,Manual
+284,2008 Maruti Alto,"1,31,699","43,091 km",Petrol,Manual
+285,2013 Maruti Swift Dzire,"3,74,499","76,795 km",Diesel,Manual
+286,2013 Maruti Swift Dzire,"3,03,099","49,944 km",Diesel,Manual
+287,2014 Maruti Swift Dzire,"3,54,799","76,013 km",Diesel,Manual
+288,2013 Maruti Ertiga,"4,59,999","1,12,745 km",Diesel,Manual
+289,2012 Maruti Swift Dzire,"3,05,899","1,18,117 km",Diesel,Manual
+290,2014 Maruti Swift,"4,07,199","54,884 km",Diesel,Manual
+291,2016 Maruti Swift Dzire,"5,14,599","58,123 km",Diesel,Manual
+292,2013 Maruti Swift,"3,50,999","83,143 km",Diesel,Manual
+293,2014 Maruti Ritz,"3,37,699","42,295 km",Diesel,Manual
+294,2015 Maruti Swift,"4,23,099","46,478 km",Petrol,Manual
+295,2014 Honda Amaze,"3,49,599","70,640 km",Diesel,Manual
+296,2018 Maruti Vitara Brezza,"6,81,899","60,395 km",Diesel,Manual
+297,2018 Maruti Wagon R 1.0,"4,49,699","30,536 km",Petrol,Manual
+298,2018 Maruti Vitara Brezza,"6,81,899","60,395 km",Diesel,Manual
+299,2018 Maruti Celerio,"5,01,199","27,816 km",Petrol,Manual
+300,2014 Maruti Swift Dzire,"3,54,799","76,013 km",Diesel,Manual
+301,2015 Tata Nano,"1,87,999","39,703 km",Petrol,Manual
+302,2012 Maruti Swift,"2,60,099","1,20,326 km",Diesel,Manual
+303,2013 Maruti Swift,"3,40,699","78,932 km",Diesel,Manual
+304,2015 Tata Nano,"1,85,999","43,402 km",Petrol,Manual
+305,2014 Hyundai Xcent,"3,88,699","42,384 km",Petrol,Manual
+306,2013 Maruti Swift Dzire,"3,75,099","66,341 km",Diesel,Manual
+307,2014 Maruti Swift Dzire,"3,54,799","76,013 km",Diesel,Manual
+308,2015 Maruti S Cross,"5,39,999","94,544 km",Diesel,Manual
+309,2012 Maruti Swift Dzire,"3,05,899","1,18,117 km",Diesel,Manual
+310,2014 Maruti Swift,"4,07,199","54,884 km",Diesel,Manual
+311,2015 Maruti Swift Dzire,"5,09,299","13,258 km",Diesel,Manual
+312,2013 Maruti Swift,"3,50,999","83,143 km",Diesel,Manual
+313,2014 Maruti Ritz,"3,37,699","42,295 km",Diesel,Manual
+314,2015 Maruti Swift,"4,23,099","46,478 km",Petrol,Manual
+315,2014 Honda Amaze,"3,49,599","70,640 km",Diesel,Manual
+316,2018 Maruti Vitara Brezza,"6,81,899","60,395 km",Diesel,Manual
+317,2018 Maruti Wagon R 1.0,"4,24,499","13,375 km",Petrol,Manual
+318,2013 Renault Duster,"4,44,999","96,788 km",Diesel,Manual
+319,2018 Maruti Celerio,"5,01,199","27,816 km",Petrol,Manual
+320,2012 Maruti Swift Dzire,"2,74,099","1,26,803 km",Diesel,Manual
+321,2014 Tata Nano,"1,81,499","31,769 km",Petrol,Manual
+322,2012 Maruti Swift,"2,60,099","1,20,326 km",Diesel,Manual
+323,2014 Maruti Swift,"3,70,699","82,367 km",Diesel,Manual
+324,2015 Tata Nano,"1,85,999","43,402 km",Petrol,Manual
+325,2013 Maruti Swift Dzire,"3,74,499","76,795 km",Diesel,Manual
+326,2013 Maruti Swift Dzire,"3,03,099","49,944 km",Diesel,Manual
+327,2014 Maruti Swift Dzire,"3,54,799","76,013 km",Diesel,Manual
+328,2015 Maruti S Cross,"5,39,999","94,544 km",Diesel,Manual
+329,2012 Maruti Swift Dzire,"3,05,899","1,18,117 km",Diesel,Manual
+330,2014 Maruti Swift,"4,24,199","38,070 km",Diesel,Manual
+331,2016 Maruti Swift Dzire,"5,14,599","58,123 km",Diesel,Manual
+332,2013 Maruti Swift,"3,40,699","78,932 km",Diesel,Manual
+333,2014 Maruti Ritz,"3,37,699","42,295 km",Diesel,Manual
+334,2015 Maruti Swift,"4,23,099","46,478 km",Petrol,Manual
+335,2014 Honda Amaze,"3,49,599","70,640 km",Diesel,Manual
+336,2018 Maruti Vitara Brezza,"6,81,899","60,395 km",Diesel,Manual
+337,2018 Maruti Wagon R 1.0,"4,24,499","13,375 km",Petrol,Manual
+338,2018 Maruti Vitara Brezza,"6,81,899","60,395 km",Diesel,Manual
+339,2018 Maruti Celerio,"5,01,199","27,816 km",Petrol,Manual
+340,2014 Maruti Swift Dzire,"3,54,799","76,013 km",Diesel,Manual
+341,2015 Tata Nano,"1,87,999","39,703 km",Petrol,Manual
+342,2012 Maruti Swift,"2,60,099","1,20,326 km",Diesel,Manual
+343,2014 Maruti Swift,"3,70,699","82,367 km",Diesel,Manual
+344,2008 Maruti Alto,"1,31,699","43,091 km",Petrol,Manual
+345,2013 Maruti Swift Dzire,"3,74,499","76,795 km",Diesel,Manual
+346,2013 Maruti Swift Dzire,"3,75,099","66,341 km",Diesel,Manual
+347,2014 Maruti Swift Dzire,"3,54,799","76,013 km",Diesel,Manual
+348,2013 Maruti Ertiga,"4,59,999","1,12,745 km",Diesel,Manual
+349,2012 Maruti Swift Dzire,"3,05,899","1,18,117 km",Diesel,Manual
+350,2014 Maruti Swift,"4,07,199","54,884 km",Diesel,Manual
+351,2015 Maruti Swift Dzire,"5,09,299","13,258 km",Diesel,Manual
+352,2013 Maruti Swift,"3,50,999","83,143 km",Diesel,Manual
+353,2014 Maruti Ritz,"3,37,699","42,295 km",Diesel,Manual
+354,2015 Maruti Swift,"4,23,099","46,478 km",Petrol,Manual
+355,2014 Honda Amaze,"3,49,599","70,640 km",Diesel,Manual
+356,2018 Maruti Vitara Brezza,"6,81,899","60,395 km",Diesel,Manual
+357,2018 Maruti Wagon R 1.0,"4,49,699","30,536 km",Petrol,Manual
+358,2013 Renault Duster,"4,44,999","96,788 km",Diesel,Manual
+359,2018 Maruti Celerio,"5,01,199","27,816 km",Petrol,Manual
+360,2014 Maruti Swift Dzire,"3,54,799","76,013 km",Diesel,Manual
+361,2015 Tata Nano,"1,87,999","39,703 km",Petrol,Manual
+362,2012 Maruti Swift,"2,92,299","38,061 km",Diesel,Manual
+363,2012 Maruti Swift,"2,82,099","68,206 km",Diesel,Manual
+364,2015 Tata Nano,"1,85,999","43,402 km",Petrol,Manual
+365,2013 Maruti Swift Dzire,"3,74,499","76,795 km",Diesel,Manual
+366,2013 Maruti Swift Dzire,"3,75,099","66,341 km",Diesel,Manual
+367,2013 Maruti Swift Dzire,"3,75,099","66,341 km",Diesel,Manual
+368,2015 Maruti S Cross,"5,39,999","94,544 km",Diesel,Manual
+369,2012 Maruti Swift Dzire,"3,05,899","1,18,117 km",Diesel,Manual
+370,2014 Maruti Swift,"4,24,199","38,070 km",Diesel,Manual
+371,2015 Maruti Swift Dzire,"5,09,299","13,258 km",Diesel,Manual
+372,2013 Maruti Swift,"3,40,699","78,932 km",Diesel,Manual
+373,2014 Maruti Ritz,"3,37,699","42,295 km",Diesel,Manual
+374,2015 Maruti Swift,"4,23,099","46,478 km",Petrol,Manual
+375,2014 Honda Amaze,"3,49,599","70,640 km",Diesel,Manual
+376,2018 Maruti Vitara Brezza,"6,81,899","60,395 km",Diesel,Manual
+377,2018 Maruti Wagon R 1.0,"4,49,699","30,536 km",Petrol,Manual
+378,2018 Maruti Vitara Brezza,"6,81,899","60,395 km",Diesel,Manual
+379,2018 Maruti Celerio,"5,01,199","27,816 km",Petrol,Manual
+380,2012 Maruti Swift Dzire,"2,74,099","1,26,803 km",Diesel,Manual
+381,2014 Tata Nano,"1,81,499","31,769 km",Petrol,Manual
+382,2012 Maruti Swift,"2,60,099","1,20,326 km",Diesel,Manual
+383,2014 Maruti Swift,"3,70,699","82,367 km",Diesel,Manual
+384,2015 Tata Nano,"1,85,999","43,402 km",Petrol,Manual
+385,2014 Hyundai Xcent,"3,88,699","42,384 km",Petrol,Manual
+386,2013 Maruti Swift Dzire,"3,75,099","66,341 km",Diesel,Manual
+387,2014 Maruti Swift Dzire,"3,54,799","76,013 km",Diesel,Manual
+388,2015 Maruti S Cross,"5,39,999","94,544 km",Diesel,Manual
+389,2012 Maruti Swift Dzire,"3,05,899","1,18,117 km",Diesel,Manual
+390,2014 Maruti Swift,"4,24,199","38,070 km",Diesel,Manual
+391,2016 Maruti Swift Dzire,"5,14,599","58,123 km",Diesel,Manual
+392,2013 Maruti Swift,"3,50,999","83,143 km",Diesel,Manual
+393,2014 Maruti Ritz,"3,37,699","42,295 km",Diesel,Manual
+394,2015 Maruti Swift,"4,23,099","46,478 km",Petrol,Manual
+395,2014 Honda Amaze,"3,49,599","70,640 km",Diesel,Manual
+396,2018 Maruti Vitara Brezza,"6,81,899","60,395 km",Diesel,Manual
+397,2018 Maruti Wagon R 1.0,"4,49,699","30,536 km",Petrol,Manual
+398,2013 Renault Duster,"4,44,999","96,788 km",Diesel,Manual
+399,2018 Maruti Celerio,"5,01,199","27,816 km",Petrol,Manual
+400,2014 Maruti Swift Dzire,"3,54,799","76,013 km",Diesel,Manual
+401,2014 Tata Nano,"1,81,499","31,769 km",Petrol,Manual
+402,2012 Maruti Swift,"2,60,099","1,20,326 km",Diesel,Manual
+403,2012 Maruti Swift,"2,82,099","68,206 km",Diesel,Manual
+404,2015 Tata Nano,"1,85,999","43,402 km",Petrol,Manual
+405,2014 Hyundai Xcent,"3,88,699","42,384 km",Petrol,Manual
+406,2013 Maruti Swift Dzire,"3,03,099","49,944 km",Diesel,Manual
+407,2013 Maruti Swift Dzire,"3,75,099","66,341 km",Diesel,Manual
+408,2013 Maruti Ertiga,"4,59,999","1,12,745 km",Diesel,Manual
+409,2012 Maruti Swift Dzire,"3,05,899","1,18,117 km",Diesel,Manual
+410,2014 Maruti Swift,"4,24,199","38,070 km",Diesel,Manual
+411,2015 Maruti Swift Dzire,"5,09,299","13,258 km",Diesel,Manual
+412,2013 Maruti Swift,"3,40,699","78,932 km",Diesel,Manual
+413,2014 Maruti Ritz,"3,37,699","42,295 km",Diesel,Manual
+414,2015 Maruti Swift,"4,23,099","46,478 km",Petrol,Manual
+415,2014 Honda Amaze,"3,49,599","70,640 km",Diesel,Manual
+416,2018 Maruti Vitara Brezza,"6,81,899","60,395 km",Diesel,Manual
+417,2018 Maruti Wagon R 1.0,"4,49,699","30,536 km",Petrol,Manual
+418,2018 Maruti Vitara Brezza,"6,81,899","60,395 km",Diesel,Manual
+419,2018 Maruti Celerio,"5,01,199","27,816 km",Petrol,Manual
+420,2014 Maruti Swift Dzire,"3,54,799","76,013 km",Diesel,Manual
+421,2015 Tata Nano,"1,87,999","39,703 km",Petrol,Manual
+422,2012 Maruti Swift,"2,60,099","1,20,326 km",Diesel,Manual
+423,2014 Maruti Swift,"3,70,699","82,367 km",Diesel,Manual
+424,2015 Tata Nano,"1,85,999","43,402 km",Petrol,Manual
+425,2013 Maruti Swift Dzire,"3,74,499","76,795 km",Diesel,Manual
+426,2013 Maruti Swift Dzire,"3,75,099","66,341 km",Diesel,Manual
+427,2014 Maruti Swift Dzire,"3,54,799","76,013 km",Diesel,Manual
+428,2013 Maruti Ertiga,"4,59,999","1,12,745 km",Diesel,Manual
+429,2012 Maruti Swift Dzire,"3,05,899","1,18,117 km",Diesel,Manual
+430,2014 Maruti Swift,"4,24,199","38,070 km",Diesel,Manual
+431,2015 Maruti Swift Dzire,"5,09,299","13,258 km",Diesel,Manual
+432,2013 Maruti Swift,"3,40,699","78,932 km",Diesel,Manual
+433,2014 Maruti Ritz,"3,37,699","42,295 km",Diesel,Manual
+434,2015 Maruti Swift,"4,23,099","46,478 km",Petrol,Manual
+435,2014 Honda Amaze,"3,49,599","70,640 km",Diesel,Manual
+436,2018 Maruti Vitara Brezza,"6,81,899","60,395 km",Diesel,Manual
+437,2018 Maruti Wagon R 1.0,"4,49,699","30,536 km",Petrol,Manual
+438,2013 Renault Duster,"4,44,999","96,788 km",Diesel,Manual
+439,2018 Maruti Celerio,"5,01,199","27,816 km",Petrol,Manual
+440,2012 Maruti Swift Dzire,"2,74,099","1,26,803 km",Diesel,Manual
+441,2015 Tata Nano,"1,87,999","39,703 km",Petrol,Manual
+442,2012 Maruti Swift,"2,92,299","38,061 km",Diesel,Manual
+443,2014 Maruti Swift,"3,70,699","82,367 km",Diesel,Manual
+444,2015 Tata Nano,"1,85,999","43,402 km",Petrol,Manual
+445,2013 Maruti Swift Dzire,"3,74,499","76,795 km",Diesel,Manual
+446,2013 Maruti Swift Dzire,"3,03,099","49,944 km",Diesel,Manual
+447,2013 Maruti Swift Dzire,"3,77,099","74,644 km",Diesel,Manual
+448,2013 Maruti Ertiga,"4,59,999","1,12,745 km",Diesel,Manual
+449,2012 Maruti Swift Dzire,"3,05,899","1,18,117 km",Diesel,Manual
+450,2014 Maruti Swift,"4,07,199","54,884 km",Diesel,Manual
+451,2015 Maruti Swift Dzire,"5,09,299","13,258 km",Diesel,Manual
+452,2013 Maruti Swift,"3,50,999","83,143 km",Diesel,Manual
+453,2014 Maruti Ritz,"3,37,699","42,295 km",Diesel,Manual
+454,2015 Maruti Swift,"4,23,099","46,478 km",Petrol,Manual
+455,2014 Honda Amaze,"3,49,599","70,640 km",Diesel,Manual
+456,2018 Maruti Vitara Brezza,"6,81,899","60,395 km",Diesel,Manual
+457,2018 Maruti Wagon R 1.0,"4,49,699","30,536 km",Petrol,Manual
+458,2013 Renault Duster,"4,44,999","96,788 km",Diesel,Manual
+459,2018 Maruti Celerio,"5,01,199","27,816 km",Petrol,Manual
+460,2014 Maruti Swift Dzire,"3,54,799","76,013 km",Diesel,Manual
+461,2014 Tata Nano,"1,81,499","31,769 km",Petrol,Manual
+462,2012 Maruti Swift,"2,60,099","1,20,326 km",Diesel,Manual
+463,2012 Maruti Swift,"2,82,099","68,206 km",Diesel,Manual
+464,2015 Tata Nano,"1,85,999","43,402 km",Petrol,Manual
+465,2014 Hyundai Xcent,"3,88,699","42,384 km",Petrol,Manual
+466,2013 Maruti Swift Dzire,"3,75,099","66,341 km",Diesel,Manual
+467,2014 Maruti Swift Dzire,"3,54,799","76,013 km",Diesel,Manual
+468,2015 Maruti S Cross,"5,39,999","94,544 km",Diesel,Manual
+469,2012 Maruti Swift Dzire,"3,05,899","1,18,117 km",Diesel,Manual
+470,2014 Maruti Swift,"4,07,199","54,884 km",Diesel,Manual
+471,2015 Maruti Swift Dzire,"5,09,299","13,258 km",Diesel,Manual
+472,2013 Maruti Swift,"3,50,999","83,143 km",Diesel,Manual
+473,2014 Maruti Ritz,"3,37,699","42,295 km",Diesel,Manual
+474,2015 Maruti Swift,"4,23,099","46,478 km",Petrol,Manual
+475,2014 Honda Amaze,"3,49,599","70,640 km",Diesel,Manual
+476,2018 Maruti Vitara Brezza,"6,81,899","60,395 km",Diesel,Manual
+477,2018 Maruti Wagon R 1.0,"4,49,699","30,536 km",Petrol,Manual
+478,2018 Maruti Vitara Brezza,"6,81,899","60,395 km",Diesel,Manual
+479,2018 Maruti Celerio,"5,01,199","27,816 km",Petrol,Manual
+480,2014 Maruti Swift Dzire,"3,54,799","76,013 km",Diesel,Manual
+481,2014 Tata Nano,"1,81,499","31,769 km",Petrol,Manual
+482,2012 Maruti Swift,"2,60,099","1,20,326 km",Diesel,Manual
+483,2012 Maruti Swift,"2,82,099","68,206 km",Diesel,Manual
+484,2008 Maruti Alto,"1,31,699","43,091 km",Petrol,Manual
+485,2013 Maruti Swift Dzire,"3,74,499","76,795 km",Diesel,Manual
+486,2013 Maruti Swift Dzire,"3,75,099","66,341 km",Diesel,Manual
+487,2014 Maruti Swift Dzire,"3,54,799","76,013 km",Diesel,Manual
+488,2015 Maruti S Cross,"5,39,999","94,544 km",Diesel,Manual
+489,2012 Maruti Swift Dzire,"3,05,899","1,18,117 km",Diesel,Manual
+490,2014 Maruti Swift,"4,07,199","54,884 km",Diesel,Manual
+491,2015 Maruti Swift Dzire,"5,09,299","13,258 km",Diesel,Manual
